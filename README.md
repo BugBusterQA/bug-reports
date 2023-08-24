@@ -1,4 +1,4 @@
-# bug-reports
+# Bug-reports
 
 ## Bug-report Templates
 
